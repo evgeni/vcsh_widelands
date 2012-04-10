@@ -1,0 +1,19 @@
+# Automatically created by Widelands build-16 (Release)
+
+[global]
+version="6"
+
+[campaigns]
+campsect0="true"
+campsect1="true"
+campsect2="true"
+
+[campmaps]
+barbariantut00="true"
+barbariantut01="true"
+barbariantut02="true"
+empiretut00="true"
+empiretut01="true"
+empiretut02="true"
+atlanteans00="true"
+atlanteans01="false"
